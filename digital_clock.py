@@ -19,6 +19,8 @@ pen.write("TIME", align="center", font=("Courier", 20, "normal"))
 pen.goto(-5 , -50)
 pen.write("FROM SERVER", align="center", font=("Courier", 15, "normal"))
 pen.hideturtle()
+time.sleep(1)
+pen.clear()
 while True:
     currentDT = datetime.datetime.now()
 
