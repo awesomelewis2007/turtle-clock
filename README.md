@@ -1,4 +1,5 @@
 ## turtle clock
+
 A clock system using turtle
 
 
@@ -6,15 +7,25 @@ A clock system using turtle
 
 
 there are diffrent types of clock as well like 
-alanlauge
+
+analogue
+
 digital 
+
 and widget 
 
 ## installing
+
 to install turtle clock you will need
+
 python:
+
 python ver 3.9 or 3.8
+
 pip:
+
 `pip install turtle`
+
 `pip install tk`
+
 `pip install tkinter`
